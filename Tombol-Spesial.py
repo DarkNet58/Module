@@ -8,6 +8,7 @@ c ='\033[0m'
 os.system('clear')
 print(a+'\t  Shorcut for help you')
 print(b+'\t   DarkNet')
+print('\t https://t.me/CRABS_ID')
 print(a+'+'*40)
 print('\nProses..')
 sleep(1)
